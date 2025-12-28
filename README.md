@@ -42,5 +42,5 @@ https://ai-study-tool-notebooklm.vercel.app
 
 ## 📂 GitHub Repository
 
-https://github.com/yourusername/ai-study-tool-notebooklm
+https://github.com/pailameghana/ai-study-tool-notebooklm
 
